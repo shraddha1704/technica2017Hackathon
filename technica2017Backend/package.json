@@ -1,0 +1,37 @@
+{
+  "name": "amplifybackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "amplify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "base64-img": "^1.0.3",
+    "bunyan": "^1.8.1",
+    "cron": "^1.1.0",
+    "crypto-js": "^3.1.9-1",
+    "elasticsearch": "^11.0.1",
+    "express": "^4.16.2",
+    "ffmpeg": "0.0.4",
+    "graceful-fs": "^4.1.4",
+    "ioredis": "^2.2.0",
+    "joi": "^8.4.2",
+    "ldapjs": "^1.0.1",
+    "md5": "^2.2.1",
+    "moment": "^2.13.0",
+    "mstranslator": "^3.0.0",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "request": "^2.72.0",
+    "require-tree": "^1.1.1",
+    "serve-image": "^1.0.2",
+    "ua-parser-js": "^0.7.10",
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.16",
+    "zipcodes": "^5.1.0"
+  }
+}
